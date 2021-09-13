@@ -1,0 +1,9 @@
+name: wTNTTag
+main: me.wolf.wtnttag.TNTTagPlugin
+version: 1.0.0
+description: A TNT Tag Minigame
+author: ${project.author}
+api-version: 1.13
+
+
+
